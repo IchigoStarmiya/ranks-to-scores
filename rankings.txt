@@ -132,6 +132,7 @@ Baja no Studio: Baja no Mita Umi
 PriPara
 PriPara 2nd Season
 PriPara 3rd Season
+Idol Time PriPara
 Hokkyoku Hyakkaten no Concierge-san
 Major S6
 Major: Message
@@ -184,6 +185,7 @@ Initial D
 Initial D SECOND STAGE
 Kidou Senshi Gundam 0080: Pocket no Naka no Sensou
 Ranma 1/2 (2024)
+Ranma 1/2 (2024) 2nd Season
 Sousou no Frieren
 Pokémon Concierge
 Seijo no Maryoku wa Bannou desu
@@ -218,6 +220,7 @@ Little Witch Academia (TV)
 Youjo Shachou
 Mob Psycho 100 II
 Mob Psycho 100
+Mob Psycho 100 III
 Ore Monogatari!!
 Sen to Chihiro no Kamikakushi
 Major S1
@@ -274,6 +277,8 @@ Machikado Mazoku
 Machikado Mazoku: 2-Choume
 Koi wa Ameagari no You ni
 Hi Score Girl
+Hikaru ga Shinda Natsu
+Idol Land PriPara
 Somali to Mori no Kamisama
 Watashi no Oshi wa Akuyaku Reijou.
 Senyuu.
@@ -282,6 +287,10 @@ Cencoroll
 Cencoroll 2
 Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
 Kidou Senshi Gundam
+Lucky☆Star OVA
+Lucky☆Star
+Mousou Dairinin
+Sora yori mo Tooi Basho
 PSYCHO-PASS PROVIDENCE
 One Punch Man
 PUI PUI Molcar
@@ -307,10 +316,6 @@ Yuri Kuma Arashi
 Bishoujo Senshi Sailor Moon
 Top wo Nerae 2! DIEBUSTER
 Yama no Susume: Omoide Present
-Lucky☆Star OVA
-Lucky☆Star
-Mousou Dairinin
-Sora yori mo Tooi Basho
 Uchuujin MuuMuu
 BIRDIE WING: Golf Girls' Story Season 2
 NHK ni Youkoso!
@@ -322,6 +327,7 @@ Cardcaptor Sakura: Clear Card-hen - Prologue Sakura to Futatsu no Kuma
 Cardcaptor Sakura: Clear Card-hen
 Initial D THIRD STAGE
 Hibike! Euphonium: Chikai no Finale
+Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
 Sorairo Utility (TV)
 Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
 Hime-sama, "Goumon" no Jikan desu
@@ -443,7 +449,6 @@ Fate/Grand Order: First Order
 Tada-kun wa Koi wo Shinai
 Princess Principal
 Breakers
-BEASTARS
 Kokoro Yohou
 Aoashi
 Kotonoha no Niwa
@@ -522,6 +527,7 @@ Korekuraide Utau
 L'Œil du Cyclone
 Summer Wars
 Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
+Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
 Ousama Ranking
 Tsurezure Children
 Udon no Kuni no Kiniro Kemari
@@ -543,7 +549,6 @@ Hanasaku Iroha: HOME SWEET HOME
 Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 Paprika
 Shin Seiki Evangelion
-Mob Psycho 100 III
 Yama no Susume
 Kidou Senshi Gundam GQuuuuuuX
 Wotaku ni Koi wa Muzukashii
@@ -573,6 +578,7 @@ Kanamewo
 BanG Dream! Ave Mujica
 Akuyaku Reijou Tensei Oji-san
 mono
+Yasei no Last Boss ga Arawareta!
 GIRLS BAND CRY
 Lazarus
 Gimai Seikatsu
@@ -616,6 +622,8 @@ Astro Note
 Bye Bye, Earth
 Rekishi ni Nokoru Akujo ni Naruzo
 Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
+BEASTARS
+SANDA
 Boku no Hero Academia
 Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 Boku no Hero Academia 3
@@ -659,6 +667,7 @@ Uzumaki
 22/7
 Koi wa Futago de Warikirenai
 Nageki no Bourei wa Intai Shitai
+Nageki no Bourei wa Intai Shitai 2
 Hitoribocchi no Marumaru Seikatsu
 Munou na Nana
 Tenkuu no Shiro Laputa
@@ -738,6 +747,7 @@ Ousama Ranking: Yuuki no Takarabako
 Aikatsu on Parade!
 Re:Zero kara Hajimeru Isekai Seikatsu
 Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
+Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
 Durarara!!x2 Ten: Onoroke Chakapoko
 Nanatsu no Maken ga Shihai Suru
 Code Geass: Hangyaku no Lelouch
@@ -833,6 +843,7 @@ Tokyo Ghoul:re
 Tokyo Ghoul √A
 Asobi Asobase
 Darling in the Franxx
+Towa no Yuugure
 Koujo Denka no Katei Kyoushi
 FAIRY TAIL
 FAIRY TAIL (2014)
@@ -872,6 +883,7 @@ Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi
 Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
 Aho-Girl
 Assassins Pride
+Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!
 Enbo
 Hametsu no Mars
 Henkei Shoujo
@@ -880,6 +892,7 @@ Kuma Kuma Kuma Bear
 Null Peta: Doki♥ Nullnull Petapeta! Mizugi Darake no Onee-chan Taikai!
 Plastic Nee-san
 Rakudai Kishi no Cavalry
+Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
 Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 Bye Bye, Earth Season 2
 Shitcom
